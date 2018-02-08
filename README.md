@@ -23,5 +23,5 @@ npm run unit
 # run all tests
 npm test
 ```
-
+#demo: https://songyang2017.github.io/Sonye/dist/index.html#/
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
